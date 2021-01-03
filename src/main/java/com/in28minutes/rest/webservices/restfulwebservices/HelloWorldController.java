@@ -16,7 +16,7 @@ public class HelloWorldController {
 	public HelloWorldBean helloWorldBean() {
 		// throw new RuntimeException("Some Error has Happened! Contact Support at
 		// ***-***");
-		return new HelloWorldBean("Hello World v2");
+		return new HelloWorldBean("Hello World v20");
 	}
 
 	/// hello-world/path-variable/in28minutes
